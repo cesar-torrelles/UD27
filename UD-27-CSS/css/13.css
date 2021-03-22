@@ -1,0 +1,27 @@
+
+   table {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+div{
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+.color1 {
+    background: #95eb95;
+}
+.color2 {
+    background: #90f0f0;
+    text-align: left;
+
+}
+.color3 {
+    background: #ec8df8;
+    text-align: right;
+    vertical-align: bottom;
+}
+.colorletra{
+    color: red;
+}
